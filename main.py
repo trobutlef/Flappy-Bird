@@ -1,6 +1,5 @@
-__author__ = "Tony Astuhuaman"
 '''
-Pretty cool flappy bird made by myself and soon launched on github as a repository
+Credits to this guy: https://www.youtube.com/watch?v=UZg49z76cLw
 '''
 #!/usr/bin/python3
 import pygame as p
